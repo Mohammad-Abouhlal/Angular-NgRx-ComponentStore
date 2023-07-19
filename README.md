@@ -1,3 +1,12 @@
+#Start
+
+https://ngrx.io/guide/component-store
+
+```sh
+ng add @ngrx/component-store@latest
+```
+
+
 # Product
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
